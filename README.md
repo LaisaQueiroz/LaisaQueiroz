@@ -2,11 +2,7 @@
 Olá, meu nome é Laisa Queiroz, tenho 16 anos e sou estudante da Escola Estadual de Educação Profissional Alfredo Nunes de Melo (EEEP Alfredo Nunes de Melo). Atualmente, estou cursando o curso técnico em Desenvolvimento de Sistemas.
 Juntamente com alguns colegas, estou desenvolvendo um projeto voltado para a secretaria escolar. O objetivo do projeto é criar um sistema que auxilie no processo de liberação de alunos, tornando esse procedimento mais organizado, seguro e eficiente.
 
-https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail
 
-https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white
-
-### 🤖 Estatísticas
 ### 📊 Estatísticas
 
 <p>
