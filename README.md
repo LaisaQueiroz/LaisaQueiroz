@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👩‍💻Laisa Queiroz
+Olá, meu nome é Laisa Queiroz, tenho 16 anos e sou estudante da Escola Estadual de Educação Profissional Alfredo Nunes de Melo (EEEP Alfredo Nunes de Melo). Atualmente, estou cursando o curso técnico em Desenvolvimento de Sistemas.
+Juntamente com alguns colegas, estou desenvolvendo um projeto voltado para a secretaria escolar. O objetivo do projeto é criar um sistema que auxilie no processo de liberação de alunos, tornando esse procedimento mais organizado, seguro e eficiente.
 
-<!--
-**LaisaQueiroz/LaisaQueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail
 
-Here are some ideas to get you started:
+<p align="left">
+    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscritos&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+    <a href="https://www.youtube.com/@larissakich">
+@@ -155,7 +155,7 @@
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Estatísticas
+### 📊 Estatísticas
+
+<p>
+  <img 
