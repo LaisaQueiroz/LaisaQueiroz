@@ -2,6 +2,27 @@
 Olá, meu nome é Laisa Queiroz, tenho 16 anos e sou estudante da Escola Estadual de Educação Profissional Alfredo Nunes de Melo (EEEP Alfredo Nunes de Melo). Atualmente, estou cursando o curso técnico em Desenvolvimento de Sistemas.
 Juntamente com alguns colegas, estou desenvolvendo um projeto voltado para a secretaria escolar. O objetivo do projeto é criar um sistema que auxilie no processo de liberação de alunos, tornando esse procedimento mais organizado, seguro e eficiente.
 
+       title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscritos&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+   />
+</a> 
+<a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+   <img 
+       alt="Total de estrelas" 
+       title="Total de estrelas GitHub" 
+       src="https://custom-icon-badges.demolab.com/github/stars/LaisaQueiroz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+   />
+</a>
+<a href="https://github.com/LaisaQueiroz?tab=followers">
+   <img 
+       alt="Seguidores" 
+       title="Me siga no GitHub" 
+       src="https://custom-icon-badges.demolab.com/github/followers/LaisaQueiroz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+   />
+</a>
+</p>
+
 
 ### 📊 Estatísticas
 
